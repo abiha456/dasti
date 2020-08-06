@@ -1,0 +1,59 @@
+/*
+Theme Name: Divi Child
+Text Domain: Divi-child
+Template: Divi
+*/
+body h1 {
+    font-size: 60px;
+}
+body h2 {
+    font-size: 40px;
+    padding-top: 10px;
+}
+body p {
+    padding: 0 0 20px;
+}
+.main-banner {
+    background: url("images/banner.png") no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+#top-menu .menu-item:hover > a{
+    opacity: 1;
+    color: #CB1411;
+}
+#main-content .abt-text {
+    padding-top: 20px;
+}
+#main-content .et_pb_text_inner em {
+    color: #CB1411;
+    font-size: 35px;
+    font-family: none;
+}
+#main-content .abt-text p {
+    max-width: 430px;
+}
+.et_pb_image_0 img {
+    width: 90% !important;
+}
+.et_pb_column_1_3 {
+    width: 32% !important; 
+}
+.half-col1 {
+    background-color: white;
+    padding: 20px;
+    margin-right: 10px !important;
+}
+.half-col1 p {
+    padding-top: 20px;
+}
+.half-col1 img {
+    padding-top: 15px;
+}
+.et_pb_image_1 img, .et_pb_image_3 img, .et_pb_image_5 img {
+    width: 50% !important;
+}
+.et_pb_image_2 img, .et_pb_image_4 img, .et_pb_image_6 img {
+    width: 50% !important;
+    border-radius: 100%;
+}
