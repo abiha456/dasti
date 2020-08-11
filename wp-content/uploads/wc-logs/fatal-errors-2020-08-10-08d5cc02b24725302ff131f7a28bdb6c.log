@@ -1,0 +1,12 @@
+2020-08-10T07:25:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_content() in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\demo.php:7
+Stack trace:
+#0 C:\xampp\htdocs\dasti\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\dasti\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dasti\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\demo.php on line 7
+
+2020-08-10T07:32:04+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\demo.php on line 21
+
+2020-08-10T07:34:00+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\demo.php on line 9
+

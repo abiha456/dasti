@@ -1,0 +1,2 @@
+2020-08-11T09:43:37+00:00 CRITICAL Cannot redeclare enqueue_parent_styles() (previously declared in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php:6) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\demo.php on line 4
+

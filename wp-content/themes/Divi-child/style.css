@@ -57,3 +57,9 @@ body p {
     width: 50% !important;
     border-radius: 100%;
 }
+.woocommerce ul.products li.product a img {
+    display: none;
+}
+
+
+
