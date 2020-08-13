@@ -205,14 +205,16 @@
             </div>
 
             <div class="footer-color">
-                <i class="fa fa-copyright"></i><p class="p10">2014 REEN. All rights reserved.</p>
-                <div class="footer-nav">
-                    <p class="p11">home</p>
-                    <p class="p11">portfolio</p>
-                    <p class="p11">blog</p>
-                    <p class="p11">about</p>
-                    <p class="p11">services</p>
-                    <p class="p11">contact</p>
+                <div class="container">
+                    <i class="fa fa-copyright"></i><p class="p10">2014 REEN. All rights reserved.</p>
+                    <div class="footer-nav">
+                        <p class="p11">home</p>
+                        <p class="p11">portfolio</p>
+                        <p class="p11">blog</p>
+                        <p class="p11">about</p>
+                        <p class="p11">services</p>
+                        <p class="p11">contact</p>
+                    </div>
                 </div>
             </div>
         </footer>

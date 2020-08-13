@@ -50,16 +50,6 @@ body p {
 .half-col1 img {
     padding-top: 15px;
 }
-.et_pb_image_1 img, .et_pb_image_3 img, .et_pb_image_5 img {
-    width: 50% !important;
-}
-.et_pb_image_2 img, .et_pb_image_4 img, .et_pb_image_6 img {
-    width: 50% !important;
-    border-radius: 100%;
-}
-.woocommerce ul.products li.product a img {
-    display: none;
-}
 
 
 

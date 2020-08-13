@@ -214,6 +214,9 @@
     width: 23%;
     margin: 5% 1% 8% 1%;
 }
+.items img {
+    width: 100%;
+}
 .work-sec {
     margin-bottom: 5%;
 }
