@@ -1,0 +1,8 @@
+2020-08-19T04:39:31+00:00 CRITICAL Uncaught Error: Call to undefined function stroupper() in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\archive-sound.php:7
+Stack trace:
+#0 C:\xampp\htdocs\dasti\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\dasti\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dasti\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\archive-sound.php on line 7
+

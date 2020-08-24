@@ -194,7 +194,7 @@
                         </div>
                         <div class="half-col3">
                             <h3 class="h4">Free updates</h3>
-                            <p class="p7">Conecus iure posae volor remped modis aut lor volor accabora incim resto explabo.</p>
+                            <p class="p7">Conecus iure posae volor remped modis aut lor volor accabora incim resto explabo.</p>
                             <div class="footer-input">
                                 <input type="text" placeholder="Enter your email address" class="input1">
                                 <input type="submit" value="Subscribe" class="input2">

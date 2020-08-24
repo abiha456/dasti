@@ -3,6 +3,10 @@ Theme Name: Divi Child
 Text Domain: Divi-child
 Template: Divi
 */
+.hundred {
+    width: 100%;
+    float: left;
+}
 body h1 {
     font-size: 60px;
 }
@@ -50,6 +54,82 @@ body p {
 .half-col1 img {
     padding-top: 15px;
 }
-
-
-
+#et-main-area .et_pb_section {
+    padding: 4% 0;
+}
+.main-title {
+    background-image: linear-gradient(#CB1411, #262626);
+}
+.main-title h1 {
+    color: white;
+    text-align: center;
+}
+.post-content {
+    width: 100%;
+    float: left;
+    background-color: #eee;
+}
+.post-row article {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 0px 10px 30px -10px rgba(0, 0, 0, 0.3);
+    float: left;
+    width: 100%;
+}
+.img-wrap {
+    width: 15%;
+}
+.img-wrap img {
+    width: 100%;
+    float: left;
+}
+.content-wrap {
+    width: 55%;
+    padding: 20px;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.player-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 30%;
+}
+.rm-btn {
+    padding: 4px 25px;
+    border-radius: 20px;
+    color: white;
+    background-color: #CB1411;
+    max-height: 28px;
+}
+#main-footer {
+    width: 100%;
+    float: left;
+}
+.post-meta {
+    color: white;
+    text-align: center;
+}
+.detail-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.left img {
+    width: 95%;
+}
+.col-sm-6 {
+    width: 50%;
+}
+.detail-box .player-area {
+    width: 100%;
+    padding: 20px 0;
+}
+.detail-box .player-area audio {
+    width: 100%;
+}
