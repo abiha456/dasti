@@ -84,6 +84,7 @@ body p {
 .img-wrap img {
     width: 100%;
     float: left;
+    height: 100%;
 }
 .content-wrap {
     width: 55%;
@@ -154,5 +155,15 @@ body p {
 }
 .author-bio {
     font-size: 17px;
+    font-weight: 400;
+}
+.list {
+    padding: 10px 0;
+    border-bottom: 1px solid black;
+}
+.list a {
+    color: #CB1411;
+    font-size: 15px;
+    text-transform: capitalize;
     font-weight: 400;
 }

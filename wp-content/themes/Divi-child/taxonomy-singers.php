@@ -1,11 +1,13 @@
 <?php get_header(); 
-$post_type = get_post_type( get_the_ID() );
+
+$term = get_queried_object();
+
 ?>
 
 <section class="main-title et_pb_section">
-    <div class="container">
-        <h1><?php echo strtoupper($post_type) ?></h1>
-    </div>
+<div class="container">
+    <h1><?php echo strtoupper($term->name) ?></h1>
+</div>
 </section>
 
 <section class="post-content et_pb_section">

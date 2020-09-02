@@ -1,0 +1,10 @@
+2020-08-31T07:31:55+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php on line 31
+
+2020-08-31T07:32:52+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php on line 31
+
+2020-08-31T07:33:56+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php on line 33
+
+2020-08-31T07:34:52+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php on line 33
+
+2020-08-31T07:35:55+00:00 CRITICAL syntax error, unexpected ''"'' (T_CONSTANT_ENCAPSED_STRING) in C:\xampp\htdocs\dasti\wp-content\themes\Divi-child\functions.php on line 32
+
